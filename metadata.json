@@ -1,0 +1,7 @@
+{
+  "name": "DELLYZ EMPIRE",
+  "description": "A premium, high-fashion e-commerce destination for men and women, featuring clothing, accessories, and a personalized AI stylist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
